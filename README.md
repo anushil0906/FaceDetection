@@ -8,6 +8,6 @@ Visual Studio : https://www.visualstudio.com/vs/older...
 
 OpenCV : https://opencv.org/
 
-#path
+# PATH
 set path for opencv bin in environment variables 
 as opencv\build\x64\vc14\bin
