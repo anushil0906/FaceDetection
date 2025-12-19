@@ -3,17 +3,17 @@
 a face detection system using c++ and openCV 
 
 **REQUIREMENTS**
+
 OpenCV : https://opencv.org/
 
  **PATH**
+ 
 set path for opencv bin in environment variables 
 as 
-
 your_opencv_dir_name\opencv\build\x64\vc14\bin
 
 
 **Explaination**
-
 
 A C++ application that contains OpenCV frameworks for implementing real-time facial detection. He used the Cascade Classifier class to load and apply the pre-trained Haar Cascade model (haarcascade_frontalface_default.xml), which is based on the Viola-Jones algorithm. This algorithm uses Haar-like rectangular features for figuring out human faces on the basis of edges and patterns, scanning images at multiple scales to locate regions most likely to contain faces.
 
