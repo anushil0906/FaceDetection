@@ -2,6 +2,12 @@
 
 a face detection system using c++ and openCV 
 
+
+**Project DEMO**
+
+https://github.com/user-attachments/assets/6a70847a-47c1-463a-998b-a729abad742d
+
+
 **REQUIREMENTS**
 
 OpenCV : https://opencv.org/
